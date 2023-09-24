@@ -1,6 +1,5 @@
 {
   "name": "ieee-754-ts-implementation",
-  "module": "index.ts",
   "type": "module",
   "devDependencies": {
     "bun-types": "latest"
